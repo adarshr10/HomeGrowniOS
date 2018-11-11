@@ -1,0 +1,6 @@
+framework module Pods_AbhyanFoodTests {
+  umbrella header "Pods-AbhyanFoodTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
